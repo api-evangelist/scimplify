@@ -1,8 +1,27 @@
 aid: scimplify
 name: Scimplify
-description: 'Scimplify is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: health. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Scimplify is a Bengaluru-based advanced specialty chemicals company that combines
+  deep chemical expertise, software, and global manufacturing capacity to make complex chemical
+  supply predictable at scale. Founded in 2023, it operates as a contract research (CRO) and
+  contract manufacturing (CMO) organization across the specialty-chemicals lifecycle, serving
+  pharmaceutical, agrochemical, flavors & fragrances, industrial, beauty & personal care, food
+  & nutrition, dyes & pigments, oleochemicals, flame retardants, and critical-metals industries.
+  Its integrated Scinode platform, IONS R&D and ATOMS manufacturing ecosystems, and Scira AI
+  agentic layer coordinate discovery, sourcing, and production. Scimplify publishes no public
+  developer API; this profile captures its web, content, and domain-security surface.'
 url: https://raw.githubusercontent.com/api-evangelist/scimplify/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://dev-terraform-scimplify-public-bucket.s3.ap-south-1.amazonaws.com/Scimplify_Logo_for_OG_original_with_tagline.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,10 +30,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Health
+- Chemicals
+- Specialty Chemicals
+- Manufacturing
+- Pharmaceutical
+- Agrochemicals
+- Sourcing
+- CRO
+- CMO
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +51,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.scimplify.com/
+- type: About
+  url: https://www.scimplify.com/about-us
+- type: Blog
+  url: https://www.scimplify.com/blogs
+- type: Support
+  url: https://www.scimplify.com/contact-us
+- type: PrivacyPolicy
+  url: https://www.scimplify.com/privacy
+- type: TermsOfService
+  url: https://www.scimplify.com/termsofuse
+- type: LLMsTxt
+  url: llms/scimplify-llms.txt
+- type: DomainSecurity
+  url: security/scimplify-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

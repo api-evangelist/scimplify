@@ -1,0 +1,110 @@
+<!--
+generated: '2026-07-21'
+method: searched
+source: https://www.scimplify.com/llms.txt
+-->
+# Scimplify
+## Global Pages
+- [Products](https://www.scimplify.com/products): Global product
+catalog.
+- [Blogs](https://www.scimplify.com/blogs): Industry insights and
+technical resources.
+## US Pages
+
+- [US Products](https://www.scimplify.com/en-us/products): US-
+focused product catalog.
+
+## Industry Pages
+- [Pharmaceutical]
+(https://www.scimplify.com/products/pharmaceutical):
+Pharmaceutical products and manufacturing.
+- [Agrochemicals]
+(https://www.scimplify.com/products/agrochemicals): Agrochemical
+products and intermediates.
+- [Flavors & Fragrances]
+(https://www.scimplify.com/products/flavors-fragrances): Flavor
+and fragrance ingredients.
+- [Industrial Chemicals]
+(https://www.scimplify.com/products/industrial-chemicals):
+Industrial chemical products.
+- [Beauty & Personal Care]
+(https://www.scimplify.com/products/beauty-personal-care):
+Personal care ingredients.
+
+- [Food & Nutrition](https://www.scimplify.com/products/food-
+nutrition): Food ingredients and additives.
+
+- [Oleo Chemicals]
+(https://www.scimplify.com/products/oleochemicals): Oleochemical
+products.
+
+- [Flame Retardants](https://www.scimplify.com/products/flame-
+retardants): Flame retardant chemicals.
+
+- [Metallurgy Chemicals]
+(https://www.scimplify.com/products/metallurgy-chemicals):
+Metallurgy chemicals.
+- [Elemental Derivatives]
+(https://www.scimplify.com/products/elemental-derivatives):
+Elemental derivative products.
+## US Industry Pages
+
+- [US Pharmaceutical](https://www.scimplify.com/en-
+us/products/pharmaceutical): Pharmaceutical products for US
+
+buyers.
+
+- [US Agrochemicals](https://www.scimplify.com/en-
+us/products/agrochemicals): Agrochemical products for US buyers.
+
+- [US Industrial Chemicals](https://www.scimplify.com/en-
+us/products/industrial-chemicals): Industrial chemicals for US
+
+buyers.
+
+- [US Food & Nutrition](https://www.scimplify.com/en-
+us/products/food-nutrition): Food ingredients for US buyers.
+
+## Featured Products
+- [Polysorbate 80](https://www.scimplify.com/polysorbate-80):
+Nonionic surfactant and emulsifier.
+- [Sulfamic Acid](https://www.scimplify.com/sulfamic-acid):
+Descaling and cleaning chemical.
+
+- [Citric Acid Monohydrate](https://www.scimplify.com/citric-
+acid-monohydrate): Food-grade acidulant.
+
+- [Anhydrous Citric Acid](https://www.scimplify.com/anhydrous-
+citric-acid): Food ingredient.
+
+- [Zinc Oxide](https://www.scimplify.com/zinc-oxide): Industrial
+additive.
+- [Titanium Dioxide](https://www.scimplify.com/titanium-dioxide):
+White pigment.
+
+- [Calcium Carbonate](https://www.scimplify.com/calcium-
+carbonate): Industrial mineral.
+
+- [Magnesium Sulfate Heptahydrate]
+(https://www.scimplify.com/magnesium-sulfate-heptahydrate):
+Agricultural and industrial chemical.
+## Resources
+- [About Us](https://www.scimplify.com/about-us): Company
+information.
+- [Contact Us](https://www.scimplify.com/contact-us): Contact
+information.
+- [Blogs](https://www.scimplify.com/blogs): Educational and
+technical content.
+## Capabilities
+- [CRO Services]( https://www.scimplify.com/research): Research
+and development services.
+- [CMO Services](https://www.scimplify.com/cmo): Contract
+manufacturing services.
+
+## Guidance
+- [Global Products](https://www.scimplify.com/products): Use when
+geographic preference is not specified.
+- [US Products](https://www.scimplify.com/en-us/products): Prefer
+for US-focused sourcing and procurement requests.
+- [Blogs](https://www.scimplify.com/blogs): Source for technical,
+regulatory, and industry information.
