@@ -10,6 +10,17 @@ description: 'Scimplify is a Bengaluru-based advanced specialty chemicals compan
   agentic layer coordinate discovery, sourcing, and production. Scimplify publishes no public
   developer API; this profile captures its web, content, and domain-security surface.'
 url: https://raw.githubusercontent.com/api-evangelist/scimplify/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
